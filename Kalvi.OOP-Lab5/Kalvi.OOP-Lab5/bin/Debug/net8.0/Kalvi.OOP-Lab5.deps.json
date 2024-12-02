@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kalvi.OOP-Lab5/1.0.0": {
+        "runtime": {
+          "Kalvi.OOP-Lab5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kalvi.OOP-Lab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

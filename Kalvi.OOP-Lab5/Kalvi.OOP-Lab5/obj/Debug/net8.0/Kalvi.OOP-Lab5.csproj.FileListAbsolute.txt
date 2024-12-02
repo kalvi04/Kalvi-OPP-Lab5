@@ -1,0 +1,14 @@
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\bin\Debug\net8.0\Kalvi.OOP-Lab5.exe
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\bin\Debug\net8.0\Kalvi.OOP-Lab5.deps.json
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\bin\Debug\net8.0\Kalvi.OOP-Lab5.runtimeconfig.json
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\bin\Debug\net8.0\Kalvi.OOP-Lab5.dll
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\bin\Debug\net8.0\Kalvi.OOP-Lab5.pdb
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.AssemblyInfoInputs.cache
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.AssemblyInfo.cs
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.dll
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\refint\Kalvi.OOP-Lab5.dll
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.pdb
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\Kalvi.OOP-Lab5.genruntimeconfig.cache
+C:\Users\kalvi\source\repos\Kalvi.OOP-Lab5\Kalvi.OOP-Lab5\obj\Debug\net8.0\ref\Kalvi.OOP-Lab5.dll
